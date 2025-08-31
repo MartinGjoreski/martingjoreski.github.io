@@ -22,33 +22,38 @@ Funding
 ======
 **XAI-PAC: Towards Explainable and Private Affective Computing**<br/>
 Source: Swiss National Science Foundation (SNSF)<br/>
-Duration: 2024-2028<br/>
+Duration: 2024-2027<br/>
 Role: Primary investigator<br/>
+
+**EXperiMental: Wearable Technology and EXplainable AI for Mental Health and Inclusivity in Schools**<br/>
+Source: Swiss National Science Foundation (SNSF)<br/>
+Duration: 2025-2028<br/>
+Role: Scientific collaborator<br/>
 
 **SmartCHANGE: AI-based long-term health risk evaluation for driving behaviour change strategies in children and youth**<br/>
 Source: Horizon Europe and SERI (Swiss State Secretariat for Education, Research and Innovation)<br/>
-Duration: 2024-2028<br/>
+Duration: 2023-2027<br/>
 Role: Scientific collaborator<br/>
 
 **TRUST-ME: TRUstworthy enhancement of job SaTisfaction and productivity using Micro-sensing in work Environments**<br/>
 Source: Swiss National Science Foundation (SNSF)<br/>
-Duration: 2024-2027<br/>
+Duration: 2023-2026<br/>
 Role: Scientific collaborator<br/>
 
 
 Education
 ======
-**PhD in Information and Communication Technologies (2016-20)**<br/>
+**PhD in Information and Communication Technologies**<br/>
 Jožef Stefan International Postgraduate School, Ljubljana, Slovenia<br/>
 PhD thesis title: “A fusion of classical and deep machine learning for mobile health and behavior monitoring with wearable sensors” [link](https://www.dropbox.com/s/ax91oreldv1928l/Martin_Gjoreski_PhD%20-%20FINAL.pdf?dl=0)
 <br/>
 
-**M.Sc. in Information and Communication Technologies (2014-16)**<br/>
+**M.Sc. in Information and Communication Technologies**<br/>
 Jožef Stefan International Postgraduate School, Ljubljana, Slovenia<br/>
 M.Sc. thesis title: “Continuous stress monitoring using wrist device and smartphone” [link](https://www.researchgate.net/publication/308611962_CONTINUOUS_STRESS_MONITORING_USING_A_WRIST_DEVICE_AND_A_SMARTPHONE)
 <br/>
 
-**B.Sc. in Computer Science and Engineering (2010-14)**<br/>
+**B.Sc. in Computer Science and Engineering**<br/>
 Faculty of Computer Science and Engineering, Ss. Cyril and Methodius, Skopje, Macedonia<br/>
 B.Sc. thesis title: "Emotion Classification by Using Features Extracted from Speech" [link](http://www.informatica.si/index.php/informatica/article/view/719)
 <br/>
