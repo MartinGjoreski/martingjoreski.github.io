@@ -7,17 +7,25 @@ author_profile: true
 
 Doctoral students
 ======
-**2024 -**   
+**2024**   
    - [Francesco Bombassei De Bona](https://scholar.google.co.uk/citations?user=vCqZb34AAAAJ&hl=fr). Working title: "Private and Explainable Affective Computing".  Faculty of Informatics, Università della svizzera italiana. Co-supervision with prof. Marc Langheinrich.
 
-**2023 -**
+**2023**
    - [Dario Fenoglio](https://scholar.google.com/citations?user=CnL5RS0AAAAJ). Working title: "Federated Learning for Digital Healthcare".  Faculty of Informatics, Università della svizzera italiana. Co-supervision with prof. Marc Langheinrich.
    - [Gabriele Domonici](https://scholar.google.com/citations?user=IUOnRFoAAAAJ&hl=en). Working title: "Explanabile AI for Digital Healthcare".  Faculty of Informatics, Università della svizzera italiana. Co-supervision with prof. Marc Langheinrich.
 
 Masters students
 ======
+**2026**
+   - Zijun Zhou. Multi-modal Cognitive Load Estimation using Wearables. Faculty of Informatics, Università della svizzera italiana.
+   - Arezo Massum. Cognitive Load Estimation using EEG signals. Faculty of Informatics, Università della svizzera italiana.
+     
+**2025**
+   - Swathy Cheruvalath. Explainable AI for Predicting Student Exam Performance. Hochschule Bonn-Rhein-Sieg (H-BRS). Co-supervision with prof. Teena Chakkalayil Hassan.
+   - Ana Krstevska. Uncertainty-aware Diffusion Models. Jožef Stefan International Postgraduate School. Co-supervision with Gasper Slapnicar.
+     
 **2024**
-   - Eleonora Bardelli. PrivAffect: Privacy-aware sensing for affect recognition. 2024. Faculty of Informatics, Università della svizzera italiana. Co-supervision with prof. Marc Langheinrich.
+   - Eleonora Bardelli. PrivAffect: Privacy-aware Sensing for Affect Recognition. 2024. Faculty of Informatics, Università della svizzera italiana. Co-supervision with prof. Marc Langheinrich.
   
 **2023**
    - Davide Casnici. Federated Learning Earables-based Human Activity Recognition. 2023. Faculty of Informatics, Università della svizzera italiana. Co-supervision with prof. Marc Langheinrich.
