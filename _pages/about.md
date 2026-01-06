@@ -11,9 +11,8 @@ I am an Ambizione Fellow funded by the Swiss National Science Foundation (SNSF) 
 
 Prior to this, I was a postdoctoral researcher at the [People-Centered Computing Lab](https://pc.inf.usi.ch/), a research group headed by Professors Marc Langheinrich and Silvia Santini at USI. I earned my PhD in Computer Science from the Jozef Stefan Institute in Slovenia under the supervision of Professors Matjaz Gams and Mitja Lustrek. My thesis was recognized with the prestigious "Jožef Stefan golden emblem," indicating an outstanding PhD thesis in Slovenia. In 2021, I was honored to be included in the "list of the top 2% scientists in the world," in the category "single year impact – 2021”. As of 2023, I serve as an Associate Editor at [IMWUT](https://dl.acm.org/journal/imwut) (ACM on Interactive, Mobile, Wearable and Ubiquitous Technologies); and as a Board Member at the [Global SNSF Fellows Network](https://www.globalsfellows.net/home). 
 
-[Student supervision.](https://martingjoreski.github.io/teaching/) 
- 
-[Available student projects.](https://pc.inf.usi.ch/student-projects/)
+I am actively involved in [supervising](https://martingjoreski.github.io/teaching/) PhD, MSc, and BSc students, and  regularly offer new research projects. Interested students are welcome to contact me by email.
+
 
 Funding
 ======
