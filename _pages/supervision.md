@@ -1,12 +1,15 @@
 ---
 layout: archive
-title: "Teaching"
-permalink: /teaching/
+title: "Supervision"
+permalink: /supervision/
 author_profile: true
 ---
 
 Doctoral students
 ======
+**2025**   
+   - Yassine Oueslati. Working title: "Explainable AI for Youth Mental Health".  Faculty of Informatics, Università della svizzera italiana. Co-supervision with prof. Marc Langheinrich.
+
 **2024**   
    - [Francesco Bombassei De Bona](https://scholar.google.co.uk/citations?user=vCqZb34AAAAJ&hl=fr). Working title: "Private and Explainable Affective Computing".  Faculty of Informatics, Università della svizzera italiana. Co-supervision with prof. Marc Langheinrich.
 
