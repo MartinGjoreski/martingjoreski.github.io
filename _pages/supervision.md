@@ -49,6 +49,9 @@ Masters students
 
 Bachelor students
 ======
+**2026**
+  - Samuele Daminato. Personalized Health Dashboard for Multi-Modal Wearable Data. Faculty of Informatics, Università della Svizzera italiana.
+
 **2023** 
   - Gobbetti Alessandro. Multimodal Federated Learning for Sensor Data. 2023. Faculty of Informatics, Università della Svizzera italiana. Co-supervision with prof. Marc Langheinrich.
   - Mattias Formo. Federated Cognitive Load Estimation. 2023. Faculty of Informatics, Università della Svizzera italiana. Co-supervision with prof. Marc Langheinrich.
