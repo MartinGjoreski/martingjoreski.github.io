@@ -8,7 +8,7 @@ author_profile: true
 Doctoral students
 ======
 **2025**   
-   - Yassine Oueslati. Working title: "Explainable AI for Youth Mental Health".  Faculty of Informatics, Università della Svizzera italiana. Co-supervision with prof. Marc Langheinrich.
+   - [Yassine Oueslati](https://scholar.google.com/citations?user=C-jWPAsAAAAJ&hl=en). Working title: "Explainable AI for Youth Mental Health".  Faculty of Informatics, Università della Svizzera italiana. Co-supervision with prof. Marc Langheinrich.
 
 **2024**   
    - [Francesco Bombassei De Bona](https://scholar.google.com/citations?user=vCqZb34AAAAJ). Working title: "Private and Explainable Affective Computing".  Faculty of Informatics, Università della Svizzera italiana. Co-supervision with prof. Marc Langheinrich.
@@ -19,6 +19,11 @@ Doctoral students
 
 Masters students
 ======
+**2027**
+   - Andrii Zhuravlov. Multimodal Cross-domain Distillation Learning for Sensor Data. Faculty of Informatics, Università della Svizzera italiana.
+   - Stipe Peran. Reliable and Efficient Food Logging using Smart Glasses. Faculty of Informatics, Università della Svizzera italiana.
+   - Ameridaragheh Mohammadmahdi. Multimodal Concept Bottleneck Models with Continuous Concepts for Affect and Cognitive Load Recognition. Faculty of Informatics, Università della Svizzera italiana.
+
 **2026**
    - Zijun Zhou. Multi-modal Cognitive Load Estimation using Wearables. Faculty of Informatics, Università della Svizzera italiana.
    - Arezo Massum. Cognitive Load Estimation using EEG signals. Faculty of Informatics, Università della Svizzera italiana.
